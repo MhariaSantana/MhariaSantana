@@ -1,6 +1,6 @@
 - 👧 Hi, I’m @MhariaSantana
 - Atualmente estou cursando TI 
-- Foco principal no desenvolvimento de websites que priorizem aessibilidade e estilo 🎀
+- Foco principal no desenvolvimento de websites que priorizem acessibilidade e estilo 🎀
   
 
 
